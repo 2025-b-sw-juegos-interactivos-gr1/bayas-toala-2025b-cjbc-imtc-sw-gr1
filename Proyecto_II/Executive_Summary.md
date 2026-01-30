@@ -11,7 +11,7 @@
 
 ### Concepto Central
 
-*Threshold of Silence* es un videojuego Top-Down 2D de acción y sigilo que enfatiza la **planificación táctica y el aprendizaje iterativo** como mecánicas centrales. El jugador se infiltra en escenarios cerrados y deterministas, evitando la detección enemiga mediante el control preciso del movimiento, la gestión inteligente del ruido y la lectura de líneas de visión.
+Threshold of Silence es un videojuego Top-Down 2D de acción y sigilo que enfatiza la **planificación táctica y el aprendizaje iterativo** como mecánicas centrales. El jugador se infiltra en escenarios cerrados y deterministas, evitando la detección enemiga mediante el control preciso del movimiento, la gestión inteligente del ruido y la lectura de líneas de visión.
 
 El título refleja la mecánica core: el juego premía el **silencio y la observación** sobre la reacción apresurada. Cada intento representa un **ciclo completo**: observación del entorno → planificación de ruta → ejecución tctica → análisis de resultado → reintento con conocimiento acumulado. Esta estructura genera aprendizaje medible y refuerza la sensación de dominio progresivo del sistema.
 
@@ -551,15 +551,13 @@ Sprint 6 (Core Loop jugable)
 
 **CONCLUSIÓN**
 
-*Threshold of Silence* es un **prototipo académico preciso, documentado y balanceable** que demostrará si la combinación de sigilo táctico + detección legible + aprendizaje iterativo genera la experiencia de tensión intensa buscada.
+Threshold of Silence es un **prototipo académico preciso, documentado y balanceable** que demostrará si la combinación de sigilo táctico + detección legible + aprendizaje iterativo genera la experiencia de tensión intensa buscada.
 
-Con **10 sprints, 123 horas, 4 documentos coherentes y métricas claras**, el proyecto está posicionado para éxito comprobable o feedback estructurado si falla.
-
-**El camino es claro. El tiempo de comenzar es ahora.**
+Con **10 sprints, 123 horas, 4 documentos coherentes y métricas claras**, el proyecto está posicionado para éxito comprobable o feedback estructurado si falla aunque hay que considerar que solo se implementará una parte.
 
 ---
 
-*Documento versión 1.1 — Redacción Mejorada & Detalle Expandido*  
+*Documento versión 1.1*  
 *Última revisión: 25 de enero, 2026*  
-*Estado: APROBADO PARA DESARROLLO*  
+*Estado: Esperando Aprovación para desarrollo*  
 
