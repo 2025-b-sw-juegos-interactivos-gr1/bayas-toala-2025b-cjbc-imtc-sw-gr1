@@ -67,19 +67,6 @@ Métricas:         ≥70% finalización | ≥4.0/5 tensión | ≤15% unfair | 10
 
 ---
 
-## 📋 Estado del Proyecto
-
-| Aspecto | Estado |
-|--------|--------|
-| **Documentación** | ✅ 6 documentos coherentes y sincronizados |
-| **Fase Actual** | 📅 Pronto para Sprint 1 (Preproducción) |
-| **Duración** | ⏱️ 10 semanas (123 horas estimadas) |
-| **Público Objetivo** | 🎮 14+ años, jugadores de sigilo/puzzle/roguelike |
-| **Plataforma** | 🖥️ PC (Windows/Linux), 16:9 aspecto |
-| **Motor** | 🔧 Unity 2D (principal) / Godot (alternativa) |
-
----
-
 ## 🔍 Búsqueda Rápida
 
 **¿Necesitas encontrar algo específico?**
@@ -92,26 +79,6 @@ Métricas:         ≥70% finalización | ≥4.0/5 tensión | ≤15% unfair | 10
 - **¿Cuáles son los riesgos?** → [Executive § VII](./Executive_summary.md#vii-gestión-de-riesgos)
 
 **Más búsquedas:** [→ Ve a Index.md § BÚSQUEDA RÁPIDA](./Index.md#🎯-búsqueda-rápida)
-
----
-
-## 🗓️ Próximos Hitos
-
-```
-Sprint 1 (Sem 1)     → Setup + Preproducción
-  ↓
-Sprint 2 (Sem 2)     → PlayerController ✓ (GATE 1)
-  ↓
-Sprint 3–4 (Sem 3–4) → IA + Detección ✓ (GATE 2)
-  ↓
-Sprint 5–6 (Sem 5–6) → Core Loop ✓ (GATE 3)
-  ↓
-Sprint 7–8 (Sem 7–8) → UI + Level ✓ (GATE 4)
-  ↓
-Sprint 9–10 (Sem 9–10)→ QA + Entrega ✓ (GATE 5)
-```
-
-**Detalles de sprints:** [→ Project_Management.md § I](./Project_Management.md#i-estructura-de-sprints)
 
 ---
 
@@ -145,25 +112,8 @@ Sprint 9–10 (Sem 9–10)→ QA + Entrega ✓ (GATE 5)
 ## 📞 Contacto & Responsabilidades
 
 **Proyecto:** Threshold of Silence — Prototype II  
-**Equipo:** 1 Dev + Iteración con Testers Externos  
-**Estado:** READY FOR STAKEHOLDER REVIEW (25/01/2026)  
+**Equipo:** Carlos Bayas e Ismael Toala 
+**Estado:** Listo para su revisión e implementación 
 
-**Gestión centralizada de información:** [→ INDEX.md](./INDEX.md)
-
----
-
-## 📝 Versionado
-
-| Documento | Versión | Fecha | Estado |
-|-----------|---------|-------|--------|
-| README.md | 1.0 | 25/01/2026 | ✅ NUEVO |
-| Index.md | 1.1 | 25/01/2026 | ✅ ACTUALIZADO |
-| Executive_summary.md | 1.1 | 25/01/2026 | ✅ APROBADO |
-| GDD_Diseño_de_Juego.md | 1.0 | 15/01/2026 | ✅ ESTABLE |
-| Technical_Architecture.md | 1.0 | 15/01/2026 | ✅ ESTABLE |
-| Art_and_Audio_specification.md | 2.0 | 25/01/2026 | ✅ MEJORADO |
-| Project_Management.md | 1.0 | 15/01/2026 | ✅ ESTABLE |
-
----
 
 **¿Listo?** [→ Abre Index.md para empezar](./Index.md)
