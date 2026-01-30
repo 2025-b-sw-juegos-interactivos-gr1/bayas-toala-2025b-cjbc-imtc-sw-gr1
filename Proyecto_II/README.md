@@ -27,7 +27,7 @@
 
 ## 🚀 ¿Por Dónde Empiezo?
 
-### Para Tu Rol
+### Según Tu Rol
 
 | Rol | Empieza Aquí | Tiempo |
 |-----|--------------|--------|
@@ -46,12 +46,12 @@
 
 | Documento | Propósito | Tamaño |
 |-----------|----------|--------|
-| **[Index.md](./Index.md)** | 🗺️ Navegación centralizada, búsqueda por concepto, trazabilidad | 500 líneas |
-| **[Executive_summary.md](./Executive_summary.md)** | 📋 Síntesis ejecutiva: visión, mecánicas, arquitectura, métricas, riesgos | 560 líneas |
-| **[GDD_Diseño_de_Juego.md](./GDD_Diseño_de_Juego.md)** | 🎮 Game Design Document completo: mecánicas, IA, level design, backlog | 1100+ líneas |
-| **[Technical_Architecture.md](./Technical_Architecture.md)** | ⚙️ Especificación técnica: módulos, patrones, stack, setup | 420+ líneas |
-| **[Art_and_Audio_specification.md](./Art_and_Audio_specification.md)** | 🎨 Dirección visual y audio: paleta, sprites, SFX, HUD, FSM animaciones | 500+ líneas |
-| **[Project_Management.md](./Project_Management.md)** | 📊 Plan de producción: 10 sprints, 23 user stories, riesgos, PM | 280+ líneas |
+| **[Index.md](./Index.md)** | 🗺️ Navegación centralizada, búsqueda por concepto, trazabilidad |
+| **[Executive_summary.md](./Executive_summary.md)** | 📋 Síntesis ejecutiva: visión, mecánicas, arquitectura, métricas, riesgos |
+| **[GDD_Diseño_de_Juego.md](./GDD_Diseño_de_Juego.md)** | 🎮 Game Design Document completo: mecánicas, IA, level design, backlog |
+| **[Technical_Architecture.md](./Technical_Architecture.md)** | ⚙️ Especificación técnica: módulos, patrones, stack, setup |
+| **[Art_and_Audio_specification.md](./Art_and_Audio_specification.md)** | 🎨 Dirección visual y audio: paleta, sprites, SFX, HUD, FSM animaciones |
+| **[Project_Management.md](./Project_Management.md)** | 📊 Plan de producción: 10 sprints, 23 user stories, riesgos, PM |
 
 ---
 
