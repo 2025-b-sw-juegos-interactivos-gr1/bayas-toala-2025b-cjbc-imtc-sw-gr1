@@ -2,7 +2,7 @@
 
 **Proyecto:** Threshold of Silence — Top-Down 2D Stealth Action  
 **Fecha:** Enero 2026  
-**Estado:** En Desarrollo (Sprints 1–10)  
+**Estado:** Esperando Apobación para desarrollo  
 **Versión de Índice:** 1.0
 
 ---
