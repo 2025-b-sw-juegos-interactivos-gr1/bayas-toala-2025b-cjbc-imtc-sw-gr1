@@ -20,11 +20,6 @@
 
 ---
 
-## 🖼️ Screenshots
-
-*[Agregar screenshots del juego aquí]*
-
----
 
 ## 🎯 Objetivo del Juego
 
