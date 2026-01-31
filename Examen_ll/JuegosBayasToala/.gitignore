@@ -1,0 +1,98 @@
+# =============== #
+# Unity generated  #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# =============== #
+# Memory Captures #
+# =============== #
+MemoryCaptures/
+
+# =============== #
+# Recordings      #
+# =============== #
+Recordings/
+
+# =============== #
+# Asset meta data #
+# =============== #
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# =============== #
+# VS/Rider/Mono   #
+# =============== #
+ExportedObj/
+.vs/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+.idea/
+.rider/
+
+# =============== #
+# OS Generated    #
+# =============== #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# =============== #
+# Gradle/Android  #
+# =============== #
+*.apk
+*.aab
+*.unitypackage
+*.zip
+*.tar.gz
+*.rar
+
+# =============== #
+# Crashlytics     #
+# =============== #
+crashlytics-build.properties
+sysinfo.txt
+
+# =============== #
+# Code Coverage   #
+# =============== #
+CodeCoverage/
+
+# =============== #
+# Plastic SCM     #
+# =============== #
+*.private.0
+*.private
+
+# =============== #
+# Burst Debug     #
+# =============== #
+*_BurstDebugInformation_DoNotShip/
+
+# =============== #
+# Addressables    #
+# =============== #
+[Aa]ddressables[Aa]sset[Ss]ettings.asset
+[Aa]sset[Bb]undle[Bb]uilds/
